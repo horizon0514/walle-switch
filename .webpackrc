@@ -1,0 +1,18 @@
+{
+  "entry": "src/index.js",
+  "outputPath": "./build",
+  "publicPath": "./",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "html": {
+    "template": "./src/index.ejs"
+  },
+  "copy": [
+    {
+      "from": "manifest.json",
+      "to": "."
+    }
+  ]
+}

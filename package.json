@@ -1,0 +1,13 @@
+{
+  "name": "walle-switch",
+  "version": "0.0.1",
+  "author": {},
+  "scripts": {
+    "build": "roadhog build"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-jest": "^21.12.2",
+    "roadhog": "^2.2.0"
+  }
+}
